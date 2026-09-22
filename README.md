@@ -1,6 +1,6 @@
 ## About me 👋
 
-Full-stack engineer (Python, Django, React, TypeScript) building AI and agentic systems. Previously enterprise data platforms on Azure.
+Full-stack engineer. Previously enterprise data platforms on Azure.
 
 My dream is to build games with Godot and help make open source the default over closed-source engines
 <!--
